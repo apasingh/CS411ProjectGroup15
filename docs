@@ -1,6 +1,11 @@
 // Idea 1:
 // Meditriever
 // A web application that takes in user's prescription and time of need for the drug, and returns cautionary details on the usage of the drug (i.e. secondary drugs that may have interfering effects, actions to avoid such as driving and intensive exercise, and foods/drinks to avoid)
+// 1. Utilizes database by storing medicines the user has been prescribed or wants to take 
+// 2. Uses Walgreens and (summarizing ?)API
+// 3. Uses 3rd party authentication, must sign in through Walgreens to see closest store
+// 4. Has decoupled architecture - front end will show user the info of the drug and the closest Walgreens, backend will process info from Walgreens and summarize 
+
 
 // Idea 2:
 // SoundCard Scholar
