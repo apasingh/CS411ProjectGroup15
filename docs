@@ -1,0 +1,7 @@
+// Idea 1:
+// Meditriever
+// A web application that takes in user's prescription and time of need for the drug, and returns cautionary details on the usage of the drug (i.e. secondary drugs that may have interfering effects, actions to avoid such as driving and intensive exercise, and foods/drinks to avoid)
+
+// Idea 2:
+// SoundCard Scholar
+// A web application that merges Quizlet flashcards with lyrics of your favorite song from Spotify and out put a text file of those lyrics modified to include terminology from your flashcards as well as mnemonics while maintaining rhyme and rhythm
