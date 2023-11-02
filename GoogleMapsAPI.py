@@ -74,7 +74,6 @@ times_list = compile_hours_list(times["result"]["current_opening_hours"]["weekda
 
 print("Closest location: ", address_string)
 print("Phone number: ", phone_number_string)
-
 print("Times: ", times_list)
 
 if is_open == "True":
