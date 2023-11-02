@@ -114,7 +114,7 @@ form_list_string = convert_list(form["results"], "term", search_number)
 reactions = get_patient_drug_reaction(FDA_API_KEY, class_name, 5)["results"]  # number of results
 reaction_list = convert_list(reactions, "term", 5)
 
-print("Product name:", brand_name)
+print("Best product name:", brand_name)
 
 # print("This is known as: ", name_list)
 print("Forms of use:", ', '.join(form_list_string))
